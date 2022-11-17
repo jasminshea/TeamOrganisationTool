@@ -37,20 +37,17 @@ THEN I exit the application, and the HTML is generated
 
 ## Built With
 
-* HTML
-* CSS
-    * Materialize (CSS Framework)
 * JavaScript
-* Server-Side APIs
-    * [TicketMaster API](https://developer.ticketmaster.com/products-and-docs/apis/discovery-api/v2/#search-attractions-v2)
-    * [Exchange Rate API](https://www.exchangerate-api.com/)
+* Node.js
+** Inquirer
+** Jest
 
 ## Usage 
 
 To run this command-line invoke using the command:
-`md
+```md
 node index.js
-
+```
 Below is the link to the video demonstration
 
 _____
